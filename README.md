@@ -5,7 +5,7 @@ This is a multi-character battle simulation video game based on the race to the 
 <br />
 <br />
 
-Set Up:
+## Set Up:
 1. Download NetLogo 6.1.1 (https://ccl.northwestern.edu/netlogo/6.1.1/).
 2. Download the "Harry Potter Game" Folder and the "HarryPotterMazeGame.nlogo" file to your Desktop.
 3. Open the "HarryPotterMazeGame.nlogo" file and click on the "Code" tab and scroll down to the "Setup" function (you can also use Ctrl + f "path" and it should be the second instance of find).
@@ -17,7 +17,7 @@ Set Up:
 <br />
   
 
-How To Operate The Game:
+## How To Play The Game:
 1. Click the "Setup" button.
 2. Once the "Setup" button is no longer black (which means it's still executing it's commands) you can change the "Time_Limit" using the slider, the "Character_Type" and "Character_Gender" using the drop down menus.
 3. To make characters after setting the "Character_Type" and "Character_Gender" simply click on the "makeCharacter" button and using your mouse click anywhere on the maze in order to make an instance of that character there
@@ -25,7 +25,7 @@ How To Operate The Game:
 <br />
   
   
-Extra Tidbits:
+### Extra Tidbits:
 1. There's a "Character_Gender" option because there's a sound effect for each gender (it's characters from the movies casting spells)
 2. Each character has health and mana stats, depending on how much of each they have that'll change what spells they can cast (if they run out of health they die)
 3. They can't just float over hedges/stone/physical material, so if you're playing and it seems like they're just yelling "Bombarda!" over and over again and there's no Death Eater or Phoenix member in sight, they're blasting through the maze to try and get to the center
