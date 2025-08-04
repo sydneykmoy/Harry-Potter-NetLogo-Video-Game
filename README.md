@@ -23,10 +23,8 @@ How To Operate The Game:
 3. To make characters after setting the "Character_Type" and "Character_Gender" simply click on the "makeCharacter" button and using your mouse click anywhere on the maze in order to make an instance of that character there
 4. After you're satisfied with the characters you've made and the "Time_Limit" that you've chosen click the "play" button.
 <br />
-
-[Demonstration of The Game](/demonstration_video.mp4)
-<br />
-
+  
+  
 Extra Tidbits:
 1. There's a "Character_Gender" option because there's a sound effect for each gender (it's characters from the movies casting spells)
 2. Each character has health and mana stats, depending on how much of each they have that'll change what spells they can cast (if they run out of health they die)
